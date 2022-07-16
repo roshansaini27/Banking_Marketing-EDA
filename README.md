@@ -38,16 +38,9 @@ The analysis are the recommendations for future marketing campaigns:
 
 ![output2](https://user-images.githubusercontent.com/101332838/179339522-45f70a45-e6f3-4d45-8f78-e51b4def99bd.png)
 
-
- ![output1](https://user-images.githubusercontent.com/101332838/179339812-bb1758c8-ea29-44ff-8190-d4139f025198.png)
- 
- 
- 
- ![output 3](https://user-images.githubusercontent.com/101332838/179339823-80517a0c-0854-4185-91e1-5e319834f5f5.png)
- 
- 
- 
- ![output 4](https://user-images.githubusercontent.com/101332838/179339830-ffcf1339-7c34-4df2-a627-0d464ea413f6.png)
+![output1](https://user-images.githubusercontent.com/101332838/179339812-bb1758c8-ea29-44ff-8190-d4139f025198.png)
+![output 3](https://user-images.githubusercontent.com/101332838/179339823-80517a0c-0854-4185-91e1-5e319834f5f5.png)
+![output 4](https://user-images.githubusercontent.com/101332838/179339830-ffcf1339-7c34-4df2-a627-0d464ea413f6.png)
 
 
 
