@@ -8,6 +8,7 @@ Analyze data in order to find ways to look for future strategies in order to imp
 * Data review & check
 * Descriptive Statistics
 * Missing value imputation
+* Outliers imputation
 * Graphical Representation: Univariate, Bivariate and Correlation Matrix
 
 ## Technologies:
@@ -15,3 +16,5 @@ This project is created with:
 * Jupyter Notebook
 * Python
 * Python Libraries: Pandas, NumPy, matplotlib, SciPy, Seaborn, Scikit Learn
+
+## Result: 
